@@ -1,0 +1,37 @@
+.classpath
+.project
+.DS_Store
+*~
+*#
+# *.csv
+# *.iml
+*.tmproj
+*.xlsx
+# *.xml
+
+# Directories
+bin/
+.cache/
+.idea/
+tmp/
+data/
+fig/
+figure/
+fig/
+jars/
+logs/
+META-INF/
+out/
+target/
+
+# java stuff
+# *.class
+
+# R Stuff
+.RData
+.Rhistory
+.Rproj.user
+*.Rdat
+
+# config files
+# *.properties
